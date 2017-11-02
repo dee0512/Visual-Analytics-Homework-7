@@ -1,0 +1,696 @@
+
+
+
+
+2016–17 Kashmir unrest: Revision history - Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2016–17_Kashmir_unrest","wgTitle":"2016–17 Kashmir unrest","wgCurRevisionId":804459497,"wgRevisionId":0,"wgArticleId":51046467,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"history","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2016–17_Kashmir_unrest","wgRelevantArticleId":51046467,"wgRequestId":"WeOrogpAAEYAACiTR2QAAACE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.action.history.styles":"ready","mediawiki.special.changeslist":"ready","mediawiki.helplink":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.feedlink":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.history","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Help
+
+2016–17 Kashmir unrest: Revision history
+
+View logs for this page
+
+					Jump to:					navigation, 					search
+
+
+Search for revisions
+
+
+From year (and earlier):  From month (and earlier): all
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December Tag filter:  
+
+
+For any version listed below, click on its date to view it. For more help, see Help:Page history and Help:Edit summary.External tools:
+ Revision history statistics
+ Revision history search
+ Edits by user
+ Number of watchers
+ Page view statistics
+ Fix dead links
+
+
+(cur) = difference from current version, (prev) = difference from preceding version,  m = minor edit, → = section edit, ← = automatic edit summary
+
+(newest | oldest) View (newer 500 |  older 500) (20 | 50 | 100 | 250 | 500)
+
+
+
+
+
+(cur | prev) 10:44, 2 October 2016‎ Fisaannath22 (talk | contribs)‎ . . (183,749 bytes) (+34)‎ . . (→‎European Union) (undo)
+(cur | prev) 10:43, 2 October 2016‎ Fisaannath22 (talk | contribs)‎ . . (183,715 bytes) (-27)‎ . . (→‎United States) (undo)
+(cur | prev) 10:40, 2 October 2016‎ Fisaannath22 (talk | contribs)‎ . . (183,742 bytes) (+19)‎ . . (→‎United Nations) (undo)
+(cur | prev) 23:06, 30 September 2016‎ Kautilya3 (talk | contribs)‎ . . (183,723 bytes) (-2,681)‎ . . (Reverted 10 edits by Sasyma (talk): This is WP:OR by WP:SYNTHESIS; please discuss on the talk page. (TW)) (undo)
+(cur | prev) 19:14, 30 September 2016‎ Sasyma (talk | contribs)‎ . . (186,404 bytes) (-4)‎ . . (→‎Role of Islam) (undo)
+(cur | prev) 18:17, 30 September 2016‎ Sasyma (talk | contribs)‎ . . (186,408 bytes) (+1)‎ . . (→‎Role of Islam) (undo)
+(cur | prev) 18:14, 30 September 2016‎ Sasyma (talk | contribs)‎ . . (186,407 bytes) (-12)‎ . . (→‎Role of Islam) (undo)
+(cur | prev) 18:13, 30 September 2016‎ Sasyma (talk | contribs)‎ . . (186,419 bytes) (+857)‎ . . (→‎Role of Islam) (undo)
+(cur | prev) 17:55, 30 September 2016‎ Sasyma (talk | contribs)‎ . . (185,562 bytes) (+268)‎ . .  (undo)
+(cur | prev) 17:14, 30 September 2016‎ Sasyma (talk | contribs)‎ m . . (185,294 bytes) (+463)‎ . .  (undo)
+(cur | prev) 16:52, 30 September 2016‎ Sasyma (talk | contribs)‎ m . . (184,831 bytes) (+4)‎ . .  (undo)
+(cur | prev) 16:46, 30 September 2016‎ Sasyma (talk | contribs)‎ . . (184,827 bytes) (-3)‎ . .  (undo)
+(cur | prev) 16:44, 30 September 2016‎ Sasyma (talk | contribs)‎ . . (184,830 bytes) (-72)‎ . . (added a perspective) (undo)
+(cur | prev) 16:43, 30 September 2016‎ Sasyma (talk | contribs)‎ . . (184,902 bytes) (+1,179)‎ . . (added a perspective) (undo)
+(cur | prev) 03:56, 30 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (183,723 bytes) (+640)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:49, 28 September 2016‎ LilHelpa (talk | contribs)‎ m . . (183,083 bytes) (-5)‎ . . (Typos and general fixes, typo(s) fixed: conprising → comprising, diamater → diameter, extra-judicial → extrajudicial, adressed → addressed,  ,  → , , and and → and using AWB) (undo)
+(cur | prev) 15:49, 28 September 2016‎ Kautilya3 (talk | contribs)‎ . . (183,088 bytes) (-33)‎ . . (Reverted 1 edit by ARUNEEK (talk): The original was sourced content; I think these edits are WP:OR. (TW)) (undo)
+(cur | prev) 14:44, 28 September 2016‎ Winged Blades of Godric (talk | contribs)‎ . . (183,121 bytes) (+33)‎ . . (→‎Background:  Reworded the lines!!!!!!) (undo) (Tag: Visual edit)
+(cur | prev) 04:23, 28 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (183,088 bytes) (+560)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:20, 27 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (182,528 bytes) (+526)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:46, 27 September 2016‎ PAKHIGHWAY (talk | contribs)‎ . . (182,002 bytes) (+31)‎ . .  (undo)
+(cur | prev) 22:56, 26 September 2016‎ Kautilya3 (talk | contribs)‎ . . (181,971 bytes) (-357)‎ . . (Reverted 1 edit by Himbi133 (talk): Please achieve consensus on the talk page before reinstating. (TW)) (undo)
+(cur | prev) 19:18, 26 September 2016‎ Himbi133 (talk | contribs)‎ . . (182,328 bytes) (+357)‎ . . (Undid revision 741319649 by Salma Mahmoud (talk). There are more than 50 sources for the same. Plz do not indulge in war game and lets discuss in talk page. Thanks) (undo)
+(cur | prev) 19:09, 26 September 2016‎ Salma Mahmoud (talk | contribs)‎ . . (181,971 bytes) (-357)‎ . . (2 articles about Nawaz Sharif's personal terminology and a fringe website don't warrant a mention in the lead as an alternative name) (undo)
+(cur | prev) 17:00, 26 September 2016‎ Himbi133 (talk | contribs)‎ . . (182,328 bytes) (+357)‎ . . (Undid revision 741295538 by Salma Mahmoud (talk) plz check it has reliable sources. Thanks and welcome) (undo)
+(cur | prev) 16:10, 26 September 2016‎ Salma Mahmoud (talk | contribs)‎ . . (181,971 bytes) (-357)‎ . . (Undid revision 741101224 by Enaam1232 (talk)) (undo)
+(cur | prev) 11:17, 26 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (182,328 bytes) (0)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:30, 25 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (182,328 bytes) (+408)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:21, 25 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (181,920 bytes) (+429)‎ . . (→‎September) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:11, 25 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (181,491 bytes) (+568)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:41, 25 September 2016‎ Enaam1232 (talk | contribs)‎ . . (180,923 bytes) (+357)‎ . .  (undo)
+(cur | prev) 13:30, 24 September 2016‎ Smsarmad (talk | contribs)‎ . . (180,566 bytes) (-1,696)‎ . . (rv; Not a Forum) (undo)
+(cur | prev) 12:44, 24 September 2016‎ 49.32.56.102 (talk)‎ . . (182,262 bytes) (+1,696)‎ . . (→‎See also) (undo)
+(cur | prev) 11:14, 24 September 2016‎ Warrior Covert (talk | contribs)‎ . . (180,566 bytes) (+10)‎ . . (→‎United Nations:  Fixed grammar) (undo) (Tag: Mobile app edit)
+(cur | prev) 11:12, 24 September 2016‎ Warrior Covert (talk | contribs)‎ . . (180,556 bytes) (+39)‎ . . (→‎United Nations:  Completed his statement) (undo) (Tag: Mobile app edit)
+(cur | prev) 11:08, 24 September 2016‎ Warrior Covert (talk | contribs)‎ . . (180,517 bytes) (+1)‎ . . (→‎United States:  Fixed grammar) (undo) (Tag: Mobile app edit)
+(cur | prev) 11:07, 24 September 2016‎ Warrior Covert (talk | contribs)‎ . . (180,516 bytes) (+379)‎ . . (→‎United States:  Added links) (undo) (Tag: Mobile app edit)
+(cur | prev) 11:01, 24 September 2016‎ Warrior Covert (talk | contribs)‎ . . (180,137 bytes) (+18)‎ . . (→‎China) (undo) (Tag: Mobile app edit)
+(cur | prev) 10:54, 24 September 2016‎ Warrior Covert (talk | contribs)‎ . . (180,119 bytes) (+6)‎ . . (→‎Italy:  Fixed grammar) (undo) (Tag: Mobile app edit)
+(cur | prev) 10:53, 24 September 2016‎ Warrior Covert (talk | contribs)‎ . . (180,113 bytes) (+323)‎ . . (→‎Reactions:  Added links) (undo) (Tag: Mobile app edit)
+(cur | prev) 10:45, 24 September 2016‎ Warrior Covert (talk | contribs)‎ . . (179,790 bytes) (+246)‎ . . (→‎Reactions:  Added links) (undo) (Tag: Mobile app edit)
+(cur | prev) 05:31, 24 September 2016‎ Yobot (talk | contribs)‎ m . . (179,544 bytes) (-8)‎ . . (Removed invisible unicode characters + other fixes, removed: (2) using AWB (12084)) (undo)
+(cur | prev) 11:39, 23 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (179,552 bytes) (+337)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:35, 23 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (179,215 bytes) (+627)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:25, 22 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (178,588 bytes) (+555)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 07:02, 22 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (178,033 bytes) (+34)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 06:59, 22 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (177,999 bytes) (+6)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 06:58, 22 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (177,993 bytes) (+639)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 06:46, 22 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (177,354 bytes) (+435)‎ . . (→‎September) (undo)
+(cur | prev) 06:43, 22 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (176,919 bytes) (+731)‎ . . (→‎September) (undo)
+(cur | prev) 06:34, 22 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (176,188 bytes) (+930)‎ . . (→‎September) (undo)
+(cur | prev) 06:18, 22 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (175,258 bytes) (0)‎ . . (Unsourced edits,bw) (undo)
+(cur | prev) 16:51, 21 September 2016‎ Mar4d (talk | contribs)‎ . . (175,258 bytes) (+938)‎ . . (→‎China:  expand) (undo)
+(cur | prev) 16:49, 21 September 2016‎ DatGuy (talk | contribs)‎ m . . (174,320 bytes) (+69)‎ . . (Reverted good faith edits by Kikobiko10 (talk): No reason was provided / custom revert (HG) (3.1.21)) (undo)
+(cur | prev) 16:46, 21 September 2016‎ Kikobiko10 (talk | contribs)‎ . . (174,251 bytes) (+2)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 16:45, 21 September 2016‎ Kikobiko10 (talk | contribs)‎ . . (174,249 bytes) (-71)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 16:05, 21 September 2016‎ Kautilya3 (talk | contribs)‎ . . (174,320 bytes) (+158)‎ . . (→‎United States:  as per source) (undo)
+(cur | prev) 14:50, 21 September 2016‎ Mar4d (talk | contribs)‎ . . (174,162 bytes) (+596)‎ . . (→‎Organization of Islamic Cooperation:  expand) (undo)
+(cur | prev) 14:28, 21 September 2016‎ Mar4d (talk | contribs)‎ . . (173,566 bytes) (+191)‎ . . (→‎Organization of Islamic Cooperation:  +) (undo)
+(cur | prev) 14:24, 21 September 2016‎ Mar4d (talk | contribs)‎ . . (173,375 bytes) (+391)‎ . . (expand) (undo)
+(cur | prev) 19:10, 20 September 2016‎ Smart.maverick (talk | contribs)‎ . . (172,984 bytes) (-13)‎ . .  (undo) (Tag: Visual edit)
+(cur | prev) 15:30, 20 September 2016‎ 45.127.232.246 (talk)‎ . . (172,997 bytes) (-3)‎ . . (→‎September) (undo)
+(cur | prev) 13:47, 20 September 2016‎ Owais Khursheed (talk | contribs)‎ . . (173,000 bytes) (0)‎ . . (Update) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:56, 20 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (173,000 bytes) (+546)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:50, 20 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (172,454 bytes) (+1,133)‎ . . (→‎September) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:35, 20 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (171,321 bytes) (+822)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:25, 20 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (170,499 bytes) (0)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:15, 20 September 2016‎ Yobot (talk | contribs)‎ m . . (170,499 bytes) (-8)‎ . . (WP:CHECKWIKI error fixes using AWB) (undo)
+(cur | prev) 23:52, 19 September 2016‎ Filpro (talk | contribs)‎ m . . (170,507 bytes) (+80)‎ . . (date formats per MOS:DATEFORMAT by script, spelling per WP:IE by script) (undo)
+(cur | prev) 22:27, 19 September 2016‎ 14.97.30.246 (talk)‎ . . (170,427 bytes) (-1)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:26, 19 September 2016‎ 14.97.30.246 (talk)‎ . . (170,428 bytes) (+1)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:12, 19 September 2016‎ Kautilya3 (talk | contribs)‎ . . (170,427 bytes) (-208)‎ . . (Revert; the source does not say it is part of 2016 Kashmir unrest) (undo)
+(cur | prev) 19:00, 19 September 2016‎ Kautilya3 (talk | contribs)‎ . . (170,635 bytes) (-327)‎ . . (Undid revision 739994957 by Mkg20 (talk); this reference has nothing to do with the content) (undo)
+(cur | prev) 17:05, 19 September 2016‎ Mar4d (talk | contribs)‎ . . (170,962 bytes) (+103)‎ . . (ce, explain details of attack) (undo)
+(cur | prev) 16:35, 19 September 2016‎ Mar4d (talk | contribs)‎ . . (170,859 bytes) (+848)‎ . . (expand reaction) (undo)
+(cur | prev) 16:16, 19 September 2016‎ Waas341 (talk | contribs)‎ . . (170,011 bytes) (+420)‎ . .  (undo)
+(cur | prev) 13:02, 18 September 2016‎ Owais Khursheed (talk | contribs)‎ . . (169,591 bytes) (+1)‎ . . (Update) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:43, 18 September 2016‎ Mkg20 (talk | contribs)‎ . . (169,590 bytes) (+327)‎ . .  (undo) (Tag: Visual edit)
+(cur | prev) 08:27, 18 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (169,263 bytes) (+677)‎ . . (→‎September) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 08:14, 18 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (168,586 bytes) (+502)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 09:50, 16 September 2016‎ Vanamonde93 (talk | contribs)‎ . . (168,084 bytes) (+11,362)‎ . . (Reverted to revision 739514812 by Mar4d (talk): Not sure what went on there, but a whole bunch of content appears to have been deleted. If you want to reorganize, please try again. . (TW)) (undo)
+(cur | prev) 05:32, 16 September 2016‎ Yobot (talk | contribs)‎ m . . (156,722 bytes) (-10)‎ . . (WP:CHECKWIKI error fixes using AWB (12084)) (undo)
+(cur | prev) 20:04, 15 September 2016‎ Kashmirkikali06 (talk | contribs)‎ . . (156,732 bytes) (+197)‎ . . (→‎Use of pellet guns) (undo)
+(cur | prev) 20:00, 15 September 2016‎ Kashmirkikali06 (talk | contribs)‎ . . (156,535 bytes) (-11,549)‎ . . (have put it already at appropriate place) (undo)
+(cur | prev) 19:57, 15 September 2016‎ Zppix (talk | contribs)‎ m . . (168,084 bytes) (-2)‎ . . (Reverted edits by Kashmirkikali06 (talk): Unexplained removal of content (HG) (3.1.21)) (undo)
+(cur | prev) 19:56, 15 September 2016‎ Kashmirkikali06 (talk | contribs)‎ . . (168,086 bytes) (-11,552)‎ . . (→‎Reactions against use of pellet guns:  already put at appropriate place) (undo)
+(cur | prev) 19:54, 15 September 2016‎ Kashmirkikali06 (talk | contribs)‎ . . (179,638 bytes) (+11,554)‎ . . (Put it at appropriate place) (undo)
+(cur | prev) 04:21, 15 September 2016‎ Mar4d (talk | contribs)‎ . . (168,084 bytes) (+86)‎ . . (rv. unexplained removal of nationalism) (undo)
+(cur | prev) 23:24, 14 September 2016‎ 50.76.126.225 (talk)‎ . . (167,998 bytes) (-86)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:55, 14 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (168,084 bytes) (+136)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:52, 14 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (167,948 bytes) (+603)‎ . . (→‎September) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:11, 14 September 2016‎ Kautilya3 (talk | contribs)‎ . . (167,345 bytes) (-112)‎ . . (Reverted 1 edit by 73.52.53.182 (talk): WP:OR. (TW)) (undo)
+(cur | prev) 21:44, 14 September 2016‎ 73.52.53.182 (talk)‎ . . (167,457 bytes) (+112)‎ . . (The causes of the of the unrest.) (undo) (Tag: Visual edit)
+(cur | prev) 23:41, 13 September 2016‎ 69.58.42.90 (talk)‎ . . (167,345 bytes) (+4)‎ . . (first instance The Hindu) (undo)
+(cur | prev) 20:38, 13 September 2016‎ 182.187.43.233 (talk)‎ . . (167,341 bytes) (0)‎ . .  (undo)
+(cur | prev) 20:18, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (167,341 bytes) (+11)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 20:16, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (167,330 bytes) (+455)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:01, 13 September 2016‎ Fixuture (talk | contribs)‎ m . . (166,875 bytes) (-276)‎ . . (Filled in bare reference(s) with reFill ()) (undo)
+(cur | prev) 17:37, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (167,151 bytes) (+2)‎ . . (→‎Amnesty International) (undo)
+(cur | prev) 17:37, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (167,149 bytes) (+446)‎ . . (→‎United Nations) (undo)
+(cur | prev) 17:22, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (166,703 bytes) (+1,510)‎ . . (→‎Turkey) (undo)
+(cur | prev) 16:59, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (165,193 bytes) (+583)‎ . . (→‎Reactions against use of pellet guns) (undo)
+(cur | prev) 16:41, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (164,610 bytes) (+977)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 16:21, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (163,633 bytes) (+686)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 16:01, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (162,947 bytes) (0)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 16:00, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (162,947 bytes) (+3)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 15:59, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (162,944 bytes) (+468)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 15:53, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (162,476 bytes) (+1,266)‎ . . (→‎Domestic reactions) (undo)
+(cur | prev) 15:18, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (161,210 bytes) (+1,900)‎ . . (→‎September) (undo)
+(cur | prev) 14:16, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (159,310 bytes) (+319)‎ . . (→‎September) (undo)
+(cur | prev) 14:06, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (158,991 bytes) (+761)‎ . . (→‎September) (undo)
+(cur | prev) 13:52, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (158,230 bytes) (+1)‎ . . (Some sources online still present the figure as above 70 but below 80. Until all sources start showing it as above 80, it shouldn't bd changed. We cannot prefer one source over another.) (undo)
+(cur | prev) 13:48, 13 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (158,229 bytes) (+529)‎ . . (→‎September) (undo)
+(cur | prev) 06:37, 13 September 2016‎ Owais Khursheed (talk | contribs)‎ . . (157,700 bytes) (-1)‎ . . (Update) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 00:21, 13 September 2016‎ Kautilya3 (talk | contribs)‎ . . (157,701 bytes) (-1,733)‎ . . (Reverted to revision 738492092 by DinoBambinoNFS (talk): No discussion on the talk page; reverting back to the clean version. (TW)) (undo)
+(cur | prev) 14:05, 11 September 2016‎ Magioladitis (talk | contribs)‎ . . (159,434 bytes) (-15)‎ . . (Clean up duplicate template arguments using findargdups) (undo)
+(cur | prev) 21:38, 9 September 2016‎ Ymblanter (talk | contribs)‎ . . (159,449 bytes) (+17)‎ . . (fully protected) (undo)
+(cur | prev) 21:37, 9 September 2016‎ Ymblanter (talk | contribs)‎ m . . (159,432 bytes) (0)‎ . . (Protected "2016 Kashmir unrest": Edit warring / content dispute: RFPP request ([Edit=Require administrator access] (expires 21:37, 12 September 2016 (UTC)) [Move=Require administrator access] (expires 21:37, 12 September...) (undo)
+(cur | prev) 16:12, 9 September 2016‎ Floatjon (talk | contribs)‎ m . . (159,432 bytes) (+6)‎ . . (Fix ref format) (undo)
+(cur | prev) 16:03, 9 September 2016‎ Lihaas (talk | contribs)‎ . . (159,426 bytes) (+1,903)‎ . . (restore other editor) (undo)
+(cur | prev) 16:02, 9 September 2016‎ Lihaas (talk | contribs)‎ . . (157,523 bytes) (-178)‎ . . (please do not BLINDLY REVERT everything. you r opposition was to a paragraph (that has not even be removed!)) (undo)
+(cur | prev) 07:56, 9 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (157,701 bytes) (+1)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 07:55, 9 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (157,700 bytes) (+1,099)‎ . . (→‎September) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 07:29, 9 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (156,601 bytes) (+804)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 07:01, 9 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (155,797 bytes) (+16)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 16:53, 8 September 2016‎ Kautilya3 (talk | contribs)‎ . . (155,781 bytes) (+329)‎ . . (Adding/improving reference(s)) (undo)
+(cur | prev) 15:54, 8 September 2016‎ Kautilya3 (talk | contribs)‎ . . (155,452 bytes) (-2,071)‎ . . (Reverted to revision 738339167 by Mar4d (talk): WP:STATUSQUO; Please achieve consensus for your edits. (TW)) (undo)
+(cur | prev) 12:48, 8 September 2016‎ Lihaas (talk | contribs)‎ . . (157,523 bytes) (-68)‎ . . (per talk) (undo)
+(cur | prev) 12:36, 8 September 2016‎ Lihaas (talk | contribs)‎ . . (157,591 bytes) (+2,139)‎ . . (Reverted to last clean verison; BLIND REVERT -- controversial content I s already on the talk page AND put here in the interim) (undo)
+(cur | prev) 10:15, 8 September 2016‎ Mar4d (talk | contribs)‎ . . (155,452 bytes) (+4)‎ . . (NPOV) (undo)
+(cur | prev) 09:24, 8 September 2016‎ 103.7.79.83 (talk)‎ . . (155,448 bytes) (+9)‎ . . (Added a detail about Kashmir.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 04:18, 8 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (155,439 bytes) (-613)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 04:17, 8 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (156,052 bytes) (0)‎ . . (→‎Casualties: Forgot to update the death toll in Casualties after sourcing.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 04:16, 8 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (156,052 bytes) (-1,562)‎ . . (Updated death toll) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 04:13, 8 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (157,614 bytes) (+739)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:57, 7 September 2016‎ Illegitimate Barrister (talk | contribs)‎ . . (156,875 bytes) (+1)‎ . . (ce.) (undo)
+(cur | prev) 18:35, 7 September 2016‎ Mar4d (talk | contribs)‎ . . (156,874 bytes) (-586)‎ . . (rmv, not relevant) (undo)
+(cur | prev) 18:33, 7 September 2016‎ Kautilya3 (talk | contribs)‎ . . (157,460 bytes) (-1)‎ . . (Reverted 1 edit by 173.29.119.145 (talk): This is not the way to structure an encyclopaedic article. (TW)) (undo)
+(cur | prev) 18:24, 7 September 2016‎ 173.29.119.145 (talk)‎ . . (157,461 bytes) (+1)‎ . .  (undo)
+(cur | prev) 17:21, 7 September 2016‎ 112.135.0.245 (talk)‎ . . (157,460 bytes) (+586)‎ . .  (undo)
+(cur | prev) 17:20, 7 September 2016‎ Illegitimate Barrister (talk | contribs)‎ . . (156,874 bytes) (-44)‎ . . (ce) (undo)
+(cur | prev) 17:19, 7 September 2016‎ Illegitimate Barrister (talk | contribs)‎ . . (156,918 bytes) (-1)‎ . . (ce.) (undo)
+(cur | prev) 16:22, 7 September 2016‎ Laoris (talk | contribs)‎ m . . (156,919 bytes) (+1,525)‎ . . (Rescue orphaned refs ("GK5" from rev 738186859; "HT66" from rev 738186859; "AZ63" from rev 738186859; "NIE" from rev 738186859; "KRHafeez" from rev 738186859)) (undo)
+(cur | prev) 16:20, 7 September 2016‎ Laoris (talk | contribs)‎ m . . (155,394 bytes) (+2)‎ . . (fix ref error) (undo)
+(cur | prev) 15:17, 7 September 2016‎ Kautilya3 (talk | contribs)‎ . . (155,392 bytes) (-2,199)‎ . . (Reverted to revision 738189973 by DinoBambinoNFS (talk): Reverted to last clean verison; please discuss your issues on the talk page. (TW)) (undo)
+(cur | prev) 15:13, 7 September 2016‎ AnomieBOT (talk | contribs)‎ m . . (157,591 bytes) (+60)‎ . . (Dating maintenance tags: {{NPOV}} {{Bywho}} {{Who}}) (undo)
+(cur | prev) 14:53, 7 September 2016‎ Lihaas (talk | contribs)‎ . . (157,531 bytes) (+64)‎ . . (→‎Background) (undo)
+(cur | prev) 14:52, 7 September 2016‎ Lihaas (talk | contribs)‎ m . . (157,467 bytes) (+1)‎ . . (→‎=Responses) (undo)
+(cur | prev) 14:51, 7 September 2016‎ Lihaas (talk | contribs)‎ . . (157,466 bytes) (+10,905)‎ . . (→‎Use of pellet guns) (undo)
+(cur | prev) 14:51, 7 September 2016‎ Lihaas (talk | contribs)‎ . . (146,561 bytes) (-10,900)‎ . . (moving) (undo)
+(cur | prev) 14:45, 7 September 2016‎ Lihaas (talk | contribs)‎ . . (157,461 bytes) (+2,020)‎ . . (→‎Background:  restore in interim) (undo)
+(cur | prev) 14:43, 7 September 2016‎ Lihaas (talk | contribs)‎ . . (155,441 bytes) (-1,140)‎ . . (Undid revision 738200822 by Mar4d (talk) bind revert) (undo)
+(cur | prev) 14:42, 7 September 2016‎ Lihaas (talk | contribs)‎ . . (156,581 bytes) (-336)‎ . . (→‎Reactions:  reorg for consistency) (undo)
+(cur | prev) 14:41, 7 September 2016‎ Mar4d (talk | contribs)‎ . . (156,917 bytes) (+1,140)‎ . . (rv, it evidently is a factor and is reliably sourced; please discuss on talk first) (undo)
+(cur | prev) 14:34, 7 September 2016‎ Lihaas (talk | contribs)‎ . . (155,777 bytes) (-678)‎ . . (→‎Background:  remove religion, its a side show if at all) (undo)
+(cur | prev) 14:33, 7 September 2016‎ Lihaas (talk | contribs)‎ . . (156,455 bytes) (-449)‎ . . (→‎Background:  clean and remove opinions) (undo)
+(cur | prev) 14:31, 7 September 2016‎ Lihaas (talk | contribs)‎ . . (156,904 bytes) (-13)‎ . .  (undo)
+(cur | prev) 14:30, 7 September 2016‎ Lihaas (talk | contribs)‎ . . (156,917 bytes) (0)‎ . . (OLDTILE + tag) (undo)
+(cur | prev) 13:45, 7 September 2016‎ AnomieBOT (talk | contribs)‎ . . (156,917 bytes) (+1,525)‎ . . (Rescuing orphaned refs ("GK5" from rev 738186859; "HT66" from rev 738186859; "AZ63" from rev 738186859; "NIE" from rev 738186859; "KRHafeez" from rev 738186859)) (undo)
+(cur | prev) 13:23, 7 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (155,392 bytes) (+1,108)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 13:02, 7 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (154,284 bytes) (-931)‎ . . (Updated death toll of civilians) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 12:59, 7 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (155,215 bytes) (+611)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 12:56, 7 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (154,604 bytes) (+12)‎ . . (→‎September) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 12:47, 7 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (154,592 bytes) (+13)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 12:42, 7 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (154,579 bytes) (+19)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 12:41, 7 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (154,560 bytes) (+802)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 12:26, 7 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (153,758 bytes) (+1,134)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 12:11, 7 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (152,624 bytes) (+983)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:51, 7 September 2016‎ Mar4d (talk | contribs)‎ . . (151,641 bytes) (-33)‎ . . (Rv, please provide a source it is a 'party' to the conflict) (undo)
+(cur | prev) 09:34, 7 September 2016‎ 113.193.47.217 (talk)‎ . . (151,674 bytes) (+33)‎ . . (Pakistan providing moral and diplomatic support to Kashmir struggle.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:11, 6 September 2016‎ Jarble (talk | contribs)‎ . . (151,641 bytes) (+45)‎ . . (adding a link) (undo)
+(cur | prev) 18:01, 6 September 2016‎ MusikBot (talk | contribs)‎ m . . (151,596 bytes) (-53)‎ . . (removing {{pp-sock}} as page is not edit-protected) (undo)
+(cur | prev) 17:51, 6 September 2016‎ Jonesey95 (talk | contribs)‎ m . . (151,649 bytes) (+1)‎ . . (Fix empty citation, unnamed or unsupported parameter, or invalid parameter value using AutoEd; see Help:CS1 errors) (undo)
+(cur | prev) 05:15, 6 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (151,648 bytes) (-1)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:15, 6 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (151,649 bytes) (+913)‎ . . (→‎September) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:00, 6 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (150,736 bytes) (+1,080)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 12:28, 5 September 2016‎ David Gerard (talk | contribs)‎ . . (149,656 bytes) (-4)‎ . . (Removing link(s) to "The Quint": rm redlink (deleted). (TW)) (undo)
+(cur | prev) 06:54, 5 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (149,660 bytes) (+468)‎ . . (→‎September) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:44, 5 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (149,192 bytes) (+744)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:23, 5 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (148,448 bytes) (-64)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:22, 5 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (148,512 bytes) (0)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:18, 5 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (148,512 bytes) (+475)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:02, 5 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (148,037 bytes) (+648)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:54, 5 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (147,389 bytes) (+730)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:04, 3 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (146,659 bytes) (+578)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 21:58, 3 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (146,081 bytes) (+754)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 23:48, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (145,327 bytes) (+73)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 23:47, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (145,254 bytes) (+17)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 23:45, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (145,237 bytes) (+766)‎ . . (→‎September) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 23:33, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (144,471 bytes) (-20)‎ . . (The burden is on you to provide a source, not others as you added it. Plus the only source I found about an alleged JKLF hunger strikes was a biased one which cannot be used per Wikipedia's rules.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 16:38, 2 September 2016‎ Laoris (talk | contribs)‎ m . . (144,491 bytes) (+2)‎ . . (fix ref template errors) (undo)
+(cur | prev) 13:52, 2 September 2016‎ Owais Khursheed (talk | contribs)‎ . . (144,489 bytes) (+20)‎ . . (JKLF does so. You can search internet to find out hunger strikes info during the unrest.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:00, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (144,469 bytes) (-2)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 09:59, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (144,471 bytes) (+575)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 09:47, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (143,896 bytes) (+882)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 09:19, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (143,014 bytes) (+28)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 09:14, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (142,986 bytes) (+341)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 09:06, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (142,645 bytes) (-23)‎ . . (Completely unsourced; never mentioned anywhere in article) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 09:03, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (142,668 bytes) (+686)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 08:54, 2 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (141,982 bytes) (+760)‎ . . (→‎September) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:39, 1 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (141,222 bytes) (0)‎ . . (Some sources say death toll is 69. Others say it is around 70 or 71, however they include all deaths including 2 policemen. 70 - 2 = 68, 71 -2 = 69 civilians.) (undo)
+(cur | prev) 14:59, 1 September 2016‎ Owais Khursheed (talk | contribs)‎ . . (141,222 bytes) (0)‎ . . (Add) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 08:15, 1 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (141,222 bytes) (+38)‎ . . (→‎August) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 08:13, 1 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (141,184 bytes) (+523)‎ . . (→‎August) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 08:04, 1 September 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (140,661 bytes) (+340)‎ . . (→‎August) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:17, 31 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (140,321 bytes) (+352)‎ . . (→‎August) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:09, 31 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (139,969 bytes) (+468)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:01, 31 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (139,501 bytes) (+18)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:00, 31 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (139,483 bytes) (+10)‎ . . (→‎July) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 17:59, 31 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (139,473 bytes) (-61)‎ . . (Remove completely unsourced statement, even the other part of article has no source for this) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 04:32, 31 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (139,534 bytes) (+405)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:52, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (139,129 bytes) (+389)‎ . . (→‎August) (undo)
+(cur | prev) 14:45, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (138,740 bytes) (+377)‎ . . (→‎August) (undo)
+(cur | prev) 14:29, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (138,363 bytes) (+809)‎ . . (→‎August) (undo)
+(cur | prev) 14:15, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (137,554 bytes) (+573)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 07:05, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (136,981 bytes) (+4)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 07:02, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (136,977 bytes) (0)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 07:00, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (136,977 bytes) (0)‎ . . (Updated toll) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:59, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (136,977 bytes) (-561)‎ . . (Updated toll) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:58, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (137,538 bytes) (+246)‎ . . (→‎July) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:52, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (137,292 bytes) (+29)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:49, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (137,263 bytes) (+17)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:45, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (137,246 bytes) (+62)‎ . . (→‎Casualties) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:35, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (137,184 bytes) (+283)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:32, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (136,901 bytes) (+443)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:20, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (136,458 bytes) (+673)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 04:49, 30 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (135,785 bytes) (+13)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:58, 28 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (135,772 bytes) (+577)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:46, 28 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (135,195 bytes) (+1,079)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:24, 28 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (134,116 bytes) (+780)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:21, 28 August 2016‎ Owais Khursheed (talk | contribs)‎ . . (133,336 bytes) (-19)‎ . . (→‎See also: No need) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:20, 28 August 2016‎ Owais Khursheed (talk | contribs)‎ . . (133,355 bytes) (+23)‎ . . (Yaseen Malik does so) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:02, 28 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (133,332 bytes) (+1)‎ . . (→‎August) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 13:59, 28 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (133,331 bytes) (+1,147)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 13:50, 28 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (132,184 bytes) (+956)‎ . . (→‎August) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 00:16, 28 August 2016‎ Anonymous from the 21st century (talk | contribs)‎ . . (131,228 bytes) (+21)‎ . .  (undo)
+(cur | prev) 10:49, 27 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (131,207 bytes) (+791)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:32, 27 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (130,416 bytes) (+394)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 09:32, 27 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (130,022 bytes) (+486)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 08:21, 27 August 2016‎ Keiiri (talk | contribs)‎ m . . (129,536 bytes) (+1)‎ . . (→‎July) (undo)
+(cur | prev) 23:11, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (129,535 bytes) (+5)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 23:07, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (129,530 bytes) (+5)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:55, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (129,525 bytes) (+512)‎ . . (→‎July) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:25, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (129,013 bytes) (+99)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:20, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (128,914 bytes) (-410)‎ . . (→‎Casualties: Removed highly undue and likely biased statement.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:19, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (129,324 bytes) (+13)‎ . . (→‎July) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:18, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (129,311 bytes) (+580)‎ . . (→‎July) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 21:56, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (128,731 bytes) (-19)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 21:54, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (128,750 bytes) (+736)‎ . . (→‎July) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 21:32, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (128,014 bytes) (+368)‎ . . (→‎July: Not the first day, also added updated toll.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 21:20, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (127,646 bytes) (+412)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 21:07, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (127,234 bytes) (-885)‎ . . (→‎Domestic reactions: Too unnecessarily long.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:58, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (128,119 bytes) (-33)‎ . . (→‎Reactions against use of pellet guns) (undo)
+(cur | prev) 14:57, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (128,152 bytes) (+1)‎ . . (→‎Domestic reactions) (undo)
+(cur | prev) 14:55, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (128,151 bytes) (+38)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:54, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (128,113 bytes) (+11)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:52, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (128,102 bytes) (+444)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:40, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (127,658 bytes) (+989)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:20, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (126,669 bytes) (+520)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:07, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (126,149 bytes) (+324)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 13:59, 25 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (125,825 bytes) (+2,100)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 13:16, 24 August 2016‎ Narky Blert (talk | contribs)‎ . . (123,725 bytes) (+23)‎ . . (Link to DAB page repaired) (undo)
+(cur | prev) 13:00, 24 August 2016‎ Jim Michael (talk | contribs)‎ . . (123,702 bytes) (+78)‎ . . (→‎External links) (undo)
+(cur | prev) 11:12, 24 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (123,624 bytes) (+727)‎ . . (→‎August) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:56, 24 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (122,897 bytes) (+701)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:40, 24 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (122,196 bytes) (+697)‎ . . (→‎August) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:22, 24 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (121,499 bytes) (+791)‎ . . (→‎August) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:57, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,708 bytes) (-79)‎ . . (→‎Use of pellet guns: Wikilink) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:53, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,787 bytes) (+121)‎ . . (→‎Use of pellet guns: More detail on second-team) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:48, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,666 bytes) (+52)‎ . . (→‎Use of pellet guns: Detail on first ophthalmology team) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:39, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,614 bytes) (0)‎ . . (→‎Use of pellet guns: Bits of copyediting) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:37, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,614 bytes) (-9)‎ . . (→‎Casualties: Copyediting) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:53, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,623 bytes) (+2)‎ . . (→‎August: Copyediting) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:37, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,621 bytes) (-27)‎ . . (→‎August: More copyediting) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:30, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,648 bytes) (-3)‎ . . (→‎August: Copyediting) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:23, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,651 bytes) (+28)‎ . . (→‎Timeline of unrest: So much detail! Split the section by month) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:20, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,623 bytes) (-63)‎ . . (→‎Timeline of unrest: More copyediting, fewer passives) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:14, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,686 bytes) (-102)‎ . . (→‎Timeline of unrest: More passives turned to actives) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:08, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,788 bytes) (-50)‎ . . (→‎Timeline of unrest: copyediting) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:02, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,838 bytes) (-28)‎ . . (→‎Timeline of unrest: Copyediting, including moving dates to front of sentences to bring out chronology.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 17:54, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,866 bytes) (-19)‎ . . (→‎Timeline of unrest: Copyediting) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 17:12, 23 August 2016‎ Kautilya3 (talk | contribs)‎ . . (120,885 bytes) (-46)‎ . . (Reverted 1 edit by Thnidu (talk): Unnecessary tags; Please see the sources cited. (TW)) (undo)
+(cur | prev) 17:12, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,931 bytes) (-21)‎ . . (→‎Timeline of unrest: Minor copyedits) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 17:07, 23 August 2016‎ Thnidu (talk | contribs)‎ . . (120,952 bytes) (+46)‎ . . (→‎Background: Copyedit) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 16:50, 23 August 2016‎ Irn (talk | contribs)‎ m . . (120,906 bytes) (-5)‎ . . (→‎top:  had started --> started; para-military --> paramilitary) (undo)
+(cur | prev) 15:26, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (120,911 bytes) (+2)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 15:24, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (120,909 bytes) (+18)‎ . . (Different sources give different number of deaths. Please do not prefer any one source's count over another.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 15:13, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (120,891 bytes) (+434)‎ . . (→‎Timeline of unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 15:08, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (120,457 bytes) (+430)‎ . . (→‎Timeline of unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:58, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (120,027 bytes) (+786)‎ . . (→‎Timeline of unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:47, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (119,241 bytes) (-5)‎ . . (→‎Reactions against use of pellet guns) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:47, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (119,246 bytes) (+5)‎ . . (→‎Reactions against use of pellet guns) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:45, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (119,241 bytes) (+4)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 14:43, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (119,237 bytes) (+396)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 07:32, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (118,841 bytes) (+871)‎ . . (→‎Domestic reactions) (undo)
+(cur | prev) 07:23, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (117,970 bytes) (0)‎ . . (→‎Domestic reactions) (undo)
+(cur | prev) 07:23, 22 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (117,970 bytes) (+804)‎ . . (→‎Domestic reactions) (undo)
+(cur | prev) 20:59, 21 August 2016‎ Chickadee46 (talk | contribs)‎ . . (117,166 bytes) (+27)‎ . . (Disambiguated: Beerwah → Beerwah, Jammu and Kashmir) (undo)
+(cur | prev) 14:58, 21 August 2016‎ Keith D (talk | contribs)‎ m . . (117,139 bytes) (0)‎ . . (→‎Domestic reactions:  Typo) (undo)
+(cur | prev) 10:13, 21 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (117,139 bytes) (+608)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:11, 21 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (116,531 bytes) (0)‎ . . (→‎Media blackout) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:10, 21 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (116,531 bytes) (+639)‎ . . (→‎Action against security personnel: This is more than acyion against jist the police now.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:06, 21 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (115,892 bytes) (-34)‎ . . (→‎Timeline of unrest: Shifting to the action section.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 19:00, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (115,926 bytes) (-12)‎ . . (→‎Reactions: These sub-sub-sections are no longer under a sub-section.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:57, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (115,938 bytes) (-2)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:57, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (115,940 bytes) (+1,190)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:29, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (114,750 bytes) (+478)‎ . . (→‎Timeline of unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 18:21, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (114,272 bytes) (+712)‎ . . (→‎Media blackout) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 15:45, 20 August 2016‎ Mar4d (talk | contribs)‎ . . (113,560 bytes) (+10)‎ . . (→‎Organization of Islamic Cooperation:  ce) (undo)
+(cur | prev) 15:45, 20 August 2016‎ Mar4d (talk | contribs)‎ . . (113,550 bytes) (+14)‎ . . (ce) (undo)
+(cur | prev) 15:44, 20 August 2016‎ Mar4d (talk | contribs)‎ . . (113,536 bytes) (-60)‎ . . (→‎Organization of Islamic Cooperation:  ce) (undo)
+(cur | prev) 15:43, 20 August 2016‎ Mar4d (talk | contribs)‎ . . (113,596 bytes) (+683)‎ . . (→‎Organization of Islamic Cooperation:  add OIC sec-gen statement) (undo)
+(cur | prev) 07:26, 20 August 2016‎ Mar4d (talk | contribs)‎ . . (112,913 bytes) (-36)‎ . . (remove extra subheading) (undo)
+(cur | prev) 06:06, 20 August 2016‎ Eumolpo (talk | contribs)‎ m . . (112,949 bytes) (0)‎ . . (orthographic) (undo)
+(cur | prev) 03:57, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (112,949 bytes) (+1)‎ . . (→‎Timeline of unrest) (undo)
+(cur | prev) 03:56, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (112,948 bytes) (+45)‎ . . (→‎Timeline of unrest) (undo)
+(cur | prev) 03:53, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (112,903 bytes) (+778)‎ . . (→‎Timeline of unrest) (undo)
+(cur | prev) 03:42, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (112,125 bytes) (+1)‎ . . (→‎=United Nations) (undo)
+(cur | prev) 03:41, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (112,124 bytes) (+1)‎ . . (→‎United Nations) (undo)
+(cur | prev) 03:41, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (112,123 bytes) (+57)‎ . . (→‎Reactions: Separate section for reactions to unrest and moved Ban-ki Moon's reply to United Nations' reactions.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 03:36, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (112,066 bytes) (+913)‎ . . (→‎Reactions against use of pellet guns) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 03:28, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (111,153 bytes) (+1)‎ . . (→‎Reactions against use of pellet guns) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 03:27, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (111,152 bytes) (+107)‎ . . (→‎Reactions against use of pellet guns: Can be expanded here.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 03:21, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (111,045 bytes) (+849)‎ . . (→‎Reactions against use of pellet guns) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 03:09, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (110,196 bytes) (+1)‎ . . (→‎Reactions against use of pellet guns) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 03:09, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (110,195 bytes) (+1)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 03:08, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (110,194 bytes) (+2)‎ . . (→‎Turkey) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 03:07, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (110,192 bytes) (+6,878)‎ . . (→‎Reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 03:06, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (103,314 bytes) (-6,837)‎ . . (→‎Use of pellet guns: The section seems to be more longer in case of reactions than casualties caused by pellet guns. Reactions to them better suited to its own separate section.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 03:01, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (110,151 bytes) (+485)‎ . . (→‎Action against police) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 02:52, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (109,666 bytes) (-3)‎ . . (→‎Timeline of unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 02:51, 20 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (109,669 bytes) (-475)‎ . . (→‎Timeline of unrest: A mere funeral attendance of a civilian killed by security forces does not seem really important in an unrest.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 23:03, 19 August 2016‎ Willard84 (talk | contribs)‎ . . (110,144 bytes) (-1)‎ . . (→‎Domestic reactions) (undo)
+(cur | prev) 23:02, 19 August 2016‎ Willard84 (talk | contribs)‎ . . (110,145 bytes) (+1,714)‎ . . (→‎Domestic reactions) (undo)
+(cur | prev) 21:23, 19 August 2016‎ Willard84 (talk | contribs)‎ . . (108,431 bytes) (0)‎ . . (→‎Timeline of unrest) (undo)
+(cur | prev) 21:23, 19 August 2016‎ Willard84 (talk | contribs)‎ . . (108,431 bytes) (+1,579)‎ . . (→‎Unrest) (undo)
+(cur | prev) 21:13, 19 August 2016‎ Willard84 (talk | contribs)‎ . . (106,852 bytes) (+441)‎ . .  (undo)
+(cur | prev) 21:12, 19 August 2016‎ Willard84 (talk | contribs)‎ . . (106,411 bytes) (-221)‎ . .  (undo)
+(cur | prev) 18:26, 19 August 2016‎ Mar4d (talk | contribs)‎ . . (106,632 bytes) (+476)‎ . . (add number of pellets) (undo)
+(cur | prev) 12:03, 19 August 2016‎ Mar4d (talk | contribs)‎ . . (106,156 bytes) (+586)‎ . . (add Ban Ki-moon's letter) (undo)
+(cur | prev) 20:17, 18 August 2016‎ Mr Stephen (talk | contribs)‎ . . (105,570 bytes) (-336)‎ . . (clean up, merged duplicate refs (tag "TOI47"), straight quotes, typo(s) fixed: adressed → addressed, secuirty → security, confrence → conference using AWB) (undo)
+(cur | prev) 12:16, 18 August 2016‎ Kautilya3 (talk | contribs)‎ m . . (105,906 bytes) (+4)‎ . . (Correcting the acronym) (undo)
+(cur | prev) 10:36, 18 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (105,902 bytes) (+1,624)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 00:49, 18 August 2016‎ Kautilya3 (talk | contribs)‎ m . . (104,278 bytes) (+320)‎ . . (Fixing reference error raised by ReferenceBot) (undo)
+(cur | prev) 22:51, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (103,958 bytes) (+448)‎ . . (→‎United Nations) (undo)
+(cur | prev) 22:39, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (103,510 bytes) (+1,136)‎ . . (→‎Domestic reactions) (undo)
+(cur | prev) 22:21, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (102,374 bytes) (+26)‎ . . (→‎Domestic reactions) (undo)
+(cur | prev) 22:17, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (102,348 bytes) (0)‎ . . (→‎Domestic reactions) (undo)
+(cur | prev) 22:17, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (102,348 bytes) (+830)‎ . . (→‎Domestic reactions) (undo)
+(cur | prev) 22:02, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (101,518 bytes) (-1,023)‎ . . (→‎Casualties:  Replaced with a well-reputdd reliable source.) (undo)
+(cur | prev) 22:00, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (102,541 bytes) (-1,088)‎ . . (Different source give different death tolls, so I made the toll approximate.) (undo)
+(cur | prev) 21:53, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (103,629 bytes) (-2)‎ . .  (undo)
+(cur | prev) 21:52, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (103,631 bytes) (0)‎ . . (Changing dates) (undo)
+(cur | prev) 21:49, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (103,631 bytes) (-1)‎ . .  (undo)
+(cur | prev) 21:48, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (103,632 bytes) (+552)‎ . . (Different source give different death tolls, also I've replaced the little-known Kashmir Post with a reputed reliable source.) (undo)
+(cur | prev) 21:31, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (103,080 bytes) (-327)‎ . . (→‎Casualties:  Source does not say how many policemen died till date) (undo)
+(cur | prev) 21:30, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (103,407 bytes) (+562)‎ . . (The present sources used for police deaths do not detail 2 polocemen died, they only either say 2 "security personnel" died or a cop died. I've replaced them with sources that do say 2 policemen died.) (undo)
+(cur | prev) 21:04, 17 August 2016‎ Willard84 (talk | contribs)‎ . . (102,845 bytes) (+25)‎ . .  (undo)
+(cur | prev) 21:03, 17 August 2016‎ Willard84 (talk | contribs)‎ . . (102,820 bytes) (+1,008)‎ . .  (undo)
+(cur | prev) 21:02, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (101,812 bytes) (0)‎ . .  (undo)
+(cur | prev) 21:00, 17 August 2016‎ Willard84 (talk | contribs)‎ . . (101,812 bytes) (+1,079)‎ . . (→‎Unrest) (undo)
+(cur | prev) 20:56, 17 August 2016‎ Willard84 (talk | contribs)‎ . . (100,733 bytes) (-9)‎ . . (→‎Background:  editing weasel wording "forceful Hindu Nationalism") (undo)
+(cur | prev) 20:54, 17 August 2016‎ Willard84 (talk | contribs)‎ . . (100,742 bytes) (+314)‎ . .  (undo)
+(cur | prev) 20:49, 17 August 2016‎ Willard84 (talk | contribs)‎ . . (100,428 bytes) (-4)‎ . .  (undo)
+(cur | prev) 20:48, 17 August 2016‎ Willard84 (talk | contribs)‎ . . (100,432 bytes) (+1,265)‎ . .  (undo)
+(cur | prev) 16:32, 17 August 2016‎ Kautilya3 (talk | contribs)‎ . . (99,167 bytes) (-429)‎ . . (Updates) (undo)
+(cur | prev) 12:56, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (99,596 bytes) (-154)‎ . . (→‎Use of pellet guns:  Shortened it as it seemed unnecessary long) (undo)
+(cur | prev) 09:32, 17 August 2016‎ Araghuwanshi (talk | contribs)‎ . . (99,750 bytes) (-225)‎ . . (→‎References) (undo)
+(cur | prev) 09:31, 17 August 2016‎ Araghuwanshi (talk | contribs)‎ . . (99,975 bytes) (-17)‎ . . (→‎References) (undo)
+(cur | prev) 09:30, 17 August 2016‎ Araghuwanshi (talk | contribs)‎ . . (99,992 bytes) (+237)‎ . . (→‎References) (undo)
+(cur | prev) 08:02, 17 August 2016‎ Arjayay (talk | contribs)‎ m . . (99,755 bytes) (0)‎ . . (Sp - Recieved > Received) (undo)
+(cur | prev) 03:53, 17 August 2016‎ Fuzheado (talk | contribs)‎ . . (99,755 bytes) (-24)‎ . . (Filled in 1 bare reference(s) with reFill ()) (undo)
+(cur | prev) 03:52, 17 August 2016‎ Fuzheado (talk | contribs)‎ . . (99,779 bytes) (+268)‎ . . (Tagging 3 dead links using Checklinks) (undo)
+(cur | prev) 01:21, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (99,511 bytes) (+373)‎ . . (→‎Media blackout) (undo)
+(cur | prev) 01:14, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (99,138 bytes) (+361)‎ . . (→‎Media blackout) (undo)
+(cur | prev) 01:06, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (98,777 bytes) (+419)‎ . . (→‎Media blackout) (undo)
+(cur | prev) 00:59, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (98,358 bytes) (+339)‎ . . (→‎Media blackout) (undo)
+(cur | prev) 00:52, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (98,019 bytes) (+18)‎ . . (→‎Unrest) (undo)
+(cur | prev) 00:51, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (98,001 bytes) (+463)‎ . . (→‎Media blackout) (undo)
+(cur | prev) 00:46, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (97,538 bytes) (+12)‎ . . (→‎Media blackout) (undo)
+(cur | prev) 00:44, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (97,526 bytes) (+837)‎ . . (→‎Media blackout) (undo)
+(cur | prev) 00:30, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (96,689 bytes) (+266)‎ . . (→‎Media blackout) (undo)
+(cur | prev) 00:26, 17 August 2016‎ Me, Myself, and I are Here (talk | contribs)‎ m . . (96,423 bytes) (0)‎ . . (→‎Media blackout:  missing pipe) (undo)
+(cur | prev) 00:23, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (96,423 bytes) (+311)‎ . . (→‎News blackout:  Shifted mobike internet suspension here and changed title to better suit the section.) (undo)
+(cur | prev) 00:11, 17 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (96,112 bytes) (-43)‎ . . (→‎Unrest) (undo)
+(cur | prev) 23:42, 16 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (96,155 bytes) (+803)‎ . . (→‎Unrest) (undo)
+(cur | prev) 23:10, 16 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (95,352 bytes) (+1,560)‎ . . (→‎Unrest) (undo)
+(cur | prev) 01:32, 16 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (93,792 bytes) (+1,530)‎ . . (→‎Use of pellet guns) (undo)
+(cur | prev) 01:14, 16 August 2016‎ Finnusertop (talk | contribs)‎ m . . (92,262 bytes) (+1)‎ . . (→‎Domestic reactions:  cs1) (undo)
+(cur | prev) 00:54, 16 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (92,261 bytes) (+14)‎ . . (There is no organisation by name of "Indian Police".) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 00:50, 16 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (92,247 bytes) (+682)‎ . . (→‎United Nations) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 00:46, 16 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (91,565 bytes) (+17)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 00:36, 16 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (91,548 bytes) (+282)‎ . . (→‎Pakistan) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 00:29, 16 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (91,266 bytes) (+1,530)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 09:21, 15 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (89,736 bytes) (+1,760)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 15:49, 14 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (87,976 bytes) (+15)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 06:27, 14 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (87,961 bytes) (-17)‎ . . (→‎Unrest) (undo)
+(cur | prev) 05:58, 14 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (87,978 bytes) (+12)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:56, 14 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (87,966 bytes) (0)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:55, 14 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (87,966 bytes) (+377)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:42, 14 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (87,589 bytes) (+573)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:26, 14 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (87,016 bytes) (-1)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:25, 14 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (87,017 bytes) (+1,167)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 05:01, 14 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (85,850 bytes) (+930)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 04:32, 14 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (84,920 bytes) (+781)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 23:39, 13 August 2016‎ Josve05a (talk | contribs)‎ m . . (84,139 bytes) (+7)‎ . . (cleanup using AWB) (undo)
+(cur | prev) 11:48, 12 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (84,132 bytes) (+369)‎ . . (→‎Action against police) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:43, 12 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (83,763 bytes) (+76)‎ . . (→‎Action against police) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:36, 12 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (83,687 bytes) (+1,054)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:58, 11 August 2016‎ Jop2~enwiki (talk | contribs)‎ m . . (82,633 bytes) (0)‎ . . (→‎Action against police:  typo fix) (undo)
+(cur | prev) 10:03, 10 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (82,633 bytes) (+409)‎ . . (→‎Action against police) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 09:04, 9 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (82,224 bytes) (+967)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 08:29, 9 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (81,257 bytes) (+70)‎ . . (→‎Casualties) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 08:23, 9 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (81,187 bytes) (+1,208)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:52, 8 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (79,979 bytes) (+453)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 10:17, 8 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (79,526 bytes) (+1,374)‎ . . (→‎Domestic reactions) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 09:40, 8 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (78,152 bytes) (+361)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 20:44, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (77,791 bytes) (-2)‎ . . (→‎Use of pellet guns) (undo)
+(cur | prev) 20:43, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (77,793 bytes) (+70)‎ . . (→‎Unrest) (undo)
+(cur | prev) 13:39, 7 August 2016‎ Frietjes (talk | contribs)‎ . . (77,723 bytes) (-2)‎ . . (Clean up duplicate template arguments using findargdups) (undo)
+(cur | prev) 10:53, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (77,725 bytes) (0)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 10:53, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (77,725 bytes) (+468)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 10:40, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (77,257 bytes) (+15)‎ . .  (undo)
+(cur | prev) 10:35, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (77,242 bytes) (-4)‎ . . (→‎Use of pellet guns) (undo)
+(cur | prev) 10:34, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (77,246 bytes) (-18)‎ . . (→‎Use of pellet guns) (undo)
+(cur | prev) 10:33, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (77,264 bytes) (+422)‎ . . (→‎Use of pellet guns) (undo)
+(cur | prev) 10:15, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (76,842 bytes) (-256)‎ . . (Check the sources) (undo)
+(cur | prev) 10:11, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (77,098 bytes) (-1)‎ . . (→‎Casualties:   Updated) (undo)
+(cur | prev) 10:10, 7 August 2016‎ Kautilya3 (talk | contribs)‎ . . (77,099 bytes) (+185)‎ . . (copy edit (minor)) (undo) (Tags: Mobile app edit, Mobile edit)
+(cur | prev) 10:08, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (76,914 bytes) (-256)‎ . . (Updated and corrected) (undo)
+(cur | prev) 10:02, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (77,170 bytes) (+12)‎ . . (→‎Unrest) (undo)
+(cur | prev) 10:02, 7 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (77,158 bytes) (+356)‎ . . (→‎Unrest) (undo)
+(cur | prev) 06:50, 7 August 2016‎ Yobot (talk | contribs)‎ m . . (76,802 bytes) (0)‎ . . (→‎top: WP:CHECKWIKI error fixes using AWB (12068)) (undo)
+(cur | prev) 20:49, 6 August 2016‎ Anonymous from the 21st century (talk | contribs)‎ . . (76,802 bytes) (+1)‎ . .  (undo)
+(cur | prev) 17:32, 6 August 2016‎ NeilN (talk | contribs)‎ . . (76,801 bytes) (+53)‎ . . (Adding {{pp-sock}} (TW)) (undo)
+(cur | prev) 17:32, 6 August 2016‎ NeilN (talk | contribs)‎ m . . (76,748 bytes) (0)‎ . . (Protected "2016 Kashmir unrest": Persistent sock puppetry ([Edit=Require autoconfirmed or confirmed access] (expires 17:32, 6 September 2016 (UTC)))) (undo)
+(cur | prev) 15:37, 6 August 2016‎ Kautilya3 (talk | contribs)‎ . . (76,748 bytes) (+154)‎ . . (Reverted 1 edit by 59.177.98.72 (talk): Unexplained deletion of sourced content. (TW)) (undo)
+(cur | prev) 14:59, 6 August 2016‎ 59.177.98.72 (talk)‎ . . (76,594 bytes) (-154)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 11:02, 6 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (76,748 bytes) (+14)‎ . . (TOI refname is already in use) (undo)
+(cur | prev) 10:51, 6 August 2016‎ 213.152.161.85 (talk)‎ . . (76,734 bytes) (-6)‎ . .  (undo)
+(cur | prev) 10:36, 6 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (76,740 bytes) (+27)‎ . . (→‎Unrest) (undo)
+(cur | prev) 10:35, 6 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (76,713 bytes) (+2,024)‎ . . (Don't edit war or take unilateral decisions. It is ironic you don't use the talk page yourselves. The burden is on you since you need to give good reason for changing the content and removing sourced content.) (undo)
+(cur | prev) 09:04, 6 August 2016‎ DnDamubit (talk | contribs)‎ . . (74,689 bytes) (+12)‎ . . (If you need sources, there are hundreds. Use then talk page) (undo)
+(cur | prev) 08:59, 6 August 2016‎ DnDamubit (talk | contribs)‎ . . (74,677 bytes) (+1,535)‎ . . (This is important to understand the depth of current situation from International angle.) (undo)
+(cur | prev) 08:56, 6 August 2016‎ DnDamubit (talk | contribs)‎ . . (73,142 bytes) (-3,571)‎ . . (Undid revision 733204001 by DinoBambinoNFS (talk). It is not reliable statement, read what Nayeem Akhtar-Education minister said on ban of newspaper. If not satisfied, just use talk pg) (undo)
+(cur | prev) 04:40, 6 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (76,713 bytes) (+3,571)‎ . . (→‎News blackout: It is due since it concerns action against police fot mishandling the unrest. Also it is from completely reliable and well-reputed sources.) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 04:36, 6 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (73,142 bytes) (+1)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 04:35, 6 August 2016‎ Spartacus! (talk | contribs)‎ . . (73,141 bytes) (0)‎ . . (Undid revision 733200488 by 117.203.199.85 (talk) unsourced edits.) (undo)
+(cur | prev) 04:26, 6 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (73,141 bytes) (+632)‎ . . (→‎Unrest) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 03:55, 6 August 2016‎ 117.203.199.85 (talk)‎ . . (72,509 bytes) (0)‎ . . (→‎Organization of Islamic Cooperation) (undo)
+(cur | prev) 23:26, 5 August 2016‎ Kautilya3 (talk | contribs)‎ . . (72,509 bytes) (-1,530)‎ . . (This is unencyclopaedic; provide information, not propaganda) (undo)
+(cur | prev) 23:22, 5 August 2016‎ Kautilya3 (talk | contribs)‎ . . (74,039 bytes) (+1,970)‎ . . (Reverted 7 edits by 120.59.190.141 (talk): Unexplained deletion of sourced content. (TW)) (undo)
+(cur | prev) 22:49, 5 August 2016‎ 120.59.190.141 (talk)‎ . . (72,069 bytes) (-323)‎ . . (→‎Use of pellet guns) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:48, 5 August 2016‎ 120.59.190.141 (talk)‎ . . (72,392 bytes) (-963)‎ . . (→‎Use of pellet guns) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:46, 5 August 2016‎ 120.59.190.141 (talk)‎ . . (73,355 bytes) (-169)‎ . . (→‎Use of pellet guns) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:43, 5 August 2016‎ 120.59.190.141 (talk)‎ . . (73,524 bytes) (-461)‎ . . (→‎Use of pellet guns) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:13, 5 August 2016‎ 120.59.190.141 (talk)‎ . . (73,985 bytes) (-68)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:11, 5 August 2016‎ 120.59.190.141 (talk)‎ . . (74,053 bytes) (+13)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 22:09, 5 August 2016‎ 120.59.190.141 (talk)‎ . . (74,040 bytes) (+1)‎ . .  (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 21:10, 5 August 2016‎ DnDamubit (talk | contribs)‎ . . (74,039 bytes) (+134)‎ . . (→‎Coverage in International Media) (undo)
+(cur | prev) 21:07, 5 August 2016‎ DnDamubit (talk | contribs)‎ . . (73,905 bytes) (+682)‎ . . (→‎Coverage in International Media) (undo)
+(cur | prev) 20:58, 5 August 2016‎ DnDamubit (talk | contribs)‎ . . (73,223 bytes) (+714)‎ . .  (undo)
+(cur | prev) 19:58, 5 August 2016‎ LilHelpa (talk | contribs)‎ m . . (72,509 bytes) (-10)‎ . . (Typos and general fixes, replaced: was been  →  was, typo(s) fixed: the the → the using AWB) (undo)
+(cur | prev) 19:34, 5 August 2016‎ DnDamubit (talk | contribs)‎ . . (72,519 bytes) (-3,570)‎ . . (→‎Action against police:  This is unnecessary and also not reliable) (undo) (Tag: section blanking)
+(cur | prev) 19:31, 5 August 2016‎ DnDamubit (talk | contribs)‎ . . (76,089 bytes) (+43)‎ . .  (undo)
+(cur | prev) 17:29, 5 August 2016‎ Kautilya3 (talk | contribs)‎ . . (76,046 bytes) (+147)‎ . . (Undid revision 733056750 by 142.105.159.60 (talk); reinstated with sources) (undo)
+(cur | prev) 15:35, 5 August 2016‎ Spartacus! (talk | contribs)‎ . . (75,899 bytes) (+39)‎ . . (Reverted to revision 733096398 by Kautilya3 (talk). (TW)) (undo)
+(cur | prev) 15:15, 5 August 2016‎ 204.144.3.1 (talk)‎ . . (75,860 bytes) (-8)‎ . . (→‎Background) (undo)
+(cur | prev) 15:14, 5 August 2016‎ 204.144.3.1 (talk)‎ . . (75,868 bytes) (+2)‎ . . (→‎Background) (undo)
+(cur | prev) 15:06, 5 August 2016‎ 45.127.139.104 (talk)‎ . . (75,866 bytes) (-33)‎ . .  (undo)
+(cur | prev) 15:05, 5 August 2016‎ 45.127.139.104 (talk)‎ . . (75,899 bytes) (0)‎ . .  (undo)
+(cur | prev) 10:14, 5 August 2016‎ Kautilya3 (talk | contribs)‎ . . (75,899 bytes) (-25)‎ . . (Reverted 1 edit by MalikAttaRasool (talk): Read the whole sentence please. (TW)) (undo)
+(cur | prev) 09:41, 5 August 2016‎ MalikAttaRasool (talk | contribs)‎ . . (75,924 bytes) (+25)‎ . . (added link to the name Burhan Wani) (undo)
+(cur | prev) 02:23, 5 August 2016‎ 142.105.159.60 (talk)‎ . . (75,899 bytes) (-87)‎ . .  (undo)
+(cur | prev) 01:15, 5 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (75,986 bytes) (+15)‎ . . (→‎Action against police) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 01:15, 5 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (75,971 bytes) (-4)‎ . . (→‎Action against police) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 01:14, 5 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (75,975 bytes) (+501)‎ . . (→‎Action against police) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 01:06, 5 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (75,474 bytes) (+479)‎ . . (→‎Action against police) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 00:51, 5 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (74,995 bytes) (+387)‎ . . (→‎Use of pellet guns) (undo) (Tags: Mobile edit, Mobile web edit)
+(cur | prev) 21:17, 4 August 2016‎ Kautilya3 (talk | contribs)‎ . . (74,608 bytes) (+44)‎ . . (Reverted 1 edit by 2402:8100:3900:2A0F:8C76:4EE:1550:2686 (talk): Unexplained deletion. (TW)) (undo)
+(cur | prev) 20:36, 4 August 2016‎ 2402:8100:3900:2a0f:8c76:4ee:1550:2686 (talk)‎ . . (74,564 bytes) (-44)‎ . .  (undo)
+(cur | prev) 09:00, 4 August 2016‎ 117.192.165.130 (talk)‎ . . (74,608 bytes) (-26)‎ . . (→‎See also:  already linked several times in the article) (undo)
+(cur | prev) 08:59, 4 August 2016‎ 117.192.165.130 (talk)‎ . . (74,634 bytes) (+17)‎ . .  (undo)
+(cur | prev) 08:02, 4 August 2016‎ 45.121.117.60 (talk)‎ . . (74,617 bytes) (+558)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 22:51, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (74,059 bytes) (+12)‎ . . (→‎Turkey) (undo)
+(cur | prev) 22:51, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (74,047 bytes) (+783)‎ . . (→‎China) (undo)
+(cur | prev) 22:42, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (73,264 bytes) (+487)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 22:37, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (72,777 bytes) (+1,127)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 22:24, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (71,650 bytes) (+570)‎ . . (→‎Pakistan) (undo)
+(cur | prev) 22:14, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (71,080 bytes) (-5)‎ . . (→‎Unrest) (undo)
+(cur | prev) 22:13, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (71,085 bytes) (+1)‎ . . (→‎Unrest) (undo)
+(cur | prev) 22:12, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (71,084 bytes) (+530)‎ . . (→‎Unrest) (undo)
+(cur | prev) 22:05, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (70,554 bytes) (+732)‎ . . (→‎Unrest) (undo)
+(cur | prev) 21:49, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (69,822 bytes) (+18)‎ . . (→‎Unrest) (undo)
+(cur | prev) 21:47, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (69,804 bytes) (+396)‎ . . (→‎Unrest) (undo)
+(cur | prev) 21:37, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (69,408 bytes) (+1)‎ . . (→‎United States) (undo)
+(cur | prev) 21:34, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (69,407 bytes) (+548)‎ . . (→‎Unrest) (undo)
+(cur | prev) 21:28, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (68,859 bytes) (+261)‎ . . (→‎Unrest) (undo)
+(cur | prev) 21:25, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (68,598 bytes) (+417)‎ . . (→‎Unrest) (undo)
+(cur | prev) 21:16, 3 August 2016‎ DinoBambinoNFS (talk | contribs)‎ . . (68,181 bytes) (+327)‎ . . (→‎Unrest) (undo)
+
+
+(newest | oldest) View (newer 500 |  older 500) (20 | 50 | 100 | 250 | 500) 
+						Retrieved from "https://en.wikipedia.org/wiki/2016–17_Kashmir_unrest"					
+ 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesAtomUpload fileSpecial pagesPage informationWikidata item 
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1411,"wgHostname":"mw1275"});});
+
+
