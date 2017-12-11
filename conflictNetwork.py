@@ -321,7 +321,7 @@ def selectUser(user, dropdown):
                 otherUser = edge[0]
             else:
                 otherUser = edge[1]
-            entireText += "<div style='border:1px solid grey;'>"
+            entireText += "<div style='border:1px solid grey; padding:10px'>"
             entireText += wrapText("<b>Relationship with " + otherUser + ": </b>")
             entireText += wrapText("<b>Weight:</b> " + str(edge[2]))
             for edit in edge[3]:
@@ -404,6 +404,7 @@ for edge in edges:
     users.append(edge[1])
 
 users = list(set(users))
+dropdownUsers = pandas.DataFrame(columns=['user', 'conflicts'])
 for user in users:
     if user in bots:
         continue
@@ -413,6 +414,7 @@ for user in users:
         if user == edge[0] or user == edge[1]:
             conflict_edits += len(edge[3])
     fill_number.append(conflict_edits)
+    dropdownUsers.loc[len(dropdownUsers)] = [user, conflict_edits]
 
 fill_color_min = min(fill_number)
 for number in fill_number:
@@ -439,11 +441,11 @@ plot = figure(title="Wiki Edits Network with 'Undid' edits", x_range=(-5, 5), y_
               tools=[hover, TapTool()] + getDefaultTools())
 graphRenderer = from_networkx(graph, nx.spring_layout, scale=4, iterations=2000)
 graphRenderer.node_renderer.data_source.data['fill_color'] = fill_color
-graphRenderer.node_renderer.glyph = Circle(size=10, fill_color='fill_color', line_color='fill_color', fill_alpha=0.5,
-                                           line_alpha=0.5)
+graphRenderer.node_renderer.glyph = Circle(size=10, fill_color='fill_color', line_color='fill_color', fill_alpha=0.9,
+                                           line_alpha=0.9)
 
 graphRenderer.edge_renderer.glyph = MultiLine(line_color="#CCCCCC", line_alpha=0.8, line_width=1)
-graphRenderer.edge_renderer.selection_glyph = MultiLine(line_color="black", line_alpha=1, line_width=3)
+graphRenderer.edge_renderer.selection_glyph = MultiLine(line_color="black", line_alpha=1, line_width=1)
 graphRenderer.node_renderer.data_source.on_change('selected', update)
 graphRenderer.selection_policy = NodesAndLinkedEdges()
 color_palette = inferno(palette_number+1)
@@ -456,14 +458,9 @@ plot.renderers.append(graphRenderer)
 
 div = Div(text="", width=400, height=100)
 
-dropdownUsers = list(bigEdits['user'])
-for edge in edges:
-    dropdownUsers.append(edge[0])
-    dropdownUsers.append(edge[1])
+dropdownUsers = dropdownUsers.sort_values(by='conflicts', ascending=False)
 
-dropdownUsers = list(set(dropdownUsers))
-
-userDropdown = Select(title='select user',options=dropdownUsers)
-userDropdown.on_change('value',userDropdownCallback)
+userDropdown = Select(title='select user', options=list(dropdownUsers['user']))
+userDropdown.on_change('value', userDropdownCallback)
 
 curdoc().add_root(Column(userDropdown,Row(plot,div)))
