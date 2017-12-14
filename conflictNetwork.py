@@ -117,7 +117,7 @@ ignoredIds = [785, 784, 530, 534, 488, 489, 336, 260, 80]
 ignoredComments = data.loc[data['ID'].isin(ignoredIds)]
 conflictRows = conflictRows.loc[~conflictRows['ID'].isin(ignoredIds)]
 
-weights = {'revert': -3, 'accusation': -1, 'node': 10, 'vandalism': -2, 'for': 20, 'goodFaith': 3}
+weights = {'revert': -3, 'accusation': -1, 'node': 10, 'vandalism': -2, 'for': 3, 'goodFaith': 3}
 
 undidRows = pandas.DataFrame(columns=list(conflictRows.columns.values))
 for row in conflictRows.iterrows():
@@ -137,20 +137,8 @@ def addEdge(user1, user2, weight, edit=None, previousEdit=None):
             edge[2] += weight
             edge[3].append(edit)
             edge[4].append(previousEdit)
-            # if len(previousEdit) <= 1:
-            #     edge[4].append(previousEdit)
-            # else:
-            #     for index, row in previousEdit.iterrows():
-            #         edge[4].append(previousEdit.iloc[index])
             edgeFound = True
     if (not edgeFound):
-        # previous_array = []
-        # if type(previousEdit) == 'Series':
-        #     previous_array.append(previousEdit)
-        # else:
-        #     for index, row in previousEdit.iterrows():
-        #         previous_array.append(previousEdit.iloc[index])
-        # edges.append([user1, user2, weight, [edit], [previous_array]])
         edges.append([user1, user2, weight, [edit], [previousEdit]])
 
 
@@ -229,18 +217,19 @@ for index, row in revertRows.iterrows():
                 (data['ID'] > row['ID']) & (data['user'] == forUser) & (data['pageLength'] == row['pageLength'])]
             previousCommitIndex = previousCommitsByForUser['ID'].min()
             commitsInBetween = data.loc[(data['ID'] > row['ID']) & (data['ID'] < previousCommitIndex)]
-            for commitIndex, user in enumerate(list(commitsInBetween['user'])):
-                print(user, commitIndex, commitsInBetween['comment'])
+            for commitIndex, user in enumerate(set(list(commitsInBetween['user']))):
+                editCount = list(commitsInBetween['user']).count(user)
                 if (findWholeWord('vandalism')(row['comment'])):
-                    addEdge(row['user'], user, weights['vandalism'])
+                    addEdge(row['user'], user, weights['vandalism'] * editCount)
                 if (findWholeWord('pov')(row['comment']) or findWholeWord('unsourced')(row['comment'])):
-                    addEdge(row['user'], user, weights['accusation'])
-                addEdge(row['user'], user, weights['revert'], revertRows.iloc[index], commitsInBetween.iloc[commitIndex])
+                    addEdge(row['user'], user, weights['accusation'] * editCount)
+                editsRevertedByUser = commitsInBetween.loc[commitsInBetween['user'] == user]
+                addEdge(row['user'], user, weights['revert'] * editCount, revertRows.iloc[index], editsRevertedByUser)
             addEdge(row['user'], forUser, weights['for'], revertRows.iloc[index])
     elif (forUser == ''):
         if (editsReverted != 0):
             toEdit = data.loc[data['ID'] == (row['ID'] + 1 + editsReverted)]
-            reverted_edits = data.loc[data['ID'] > row['ID'] & (data['ID'] < (row['ID'] + 1 + editsReverted))]
+            reverted_edits = data.loc[(data['ID'] > row['ID']) & (data['ID'] < (row['ID'] + 1 + editsReverted))]
             forUser = toEdit['user'].item()
             if (findWholeWord('vandalism')(row['comment'])):
                 addEdge(row['user'], againstUser, weights['vandalism'] * editsReverted)
@@ -262,7 +251,7 @@ for index, row in revertRows.iterrows():
                 addEdge(row['user'], toEdit['user'].item(), weights['for'], revertRows.iloc[index])
     else:
         if (editsReverted != 0):
-            reverted_edits = data.loc[data['ID'] > row['ID'] & (data['ID'] < (row['ID'] + 1 + editsReverted))]
+            reverted_edits = data.loc[(data['ID'] > row['ID']) & (data['ID'] < (row['ID'] + 1 + editsReverted))]
             if (findWholeWord('vandalism')(row['comment'])):
                 addEdge(row['user'], againstUser, weights['vandalism'] * editsReverted)
             if (findWholeWord('pov')(row['comment']) or findWholeWord('unsourced')(row['comment'])):
@@ -359,8 +348,13 @@ def selectUser(user, dropdown):
                     entireText += wrapText("<b>comment:</b> " + comment)
                     if edge[4][index] is not None:
                         entireText += "<p style='text-align:center'><b>Previous Edits</b></p>"
-                        entireText += wrapText("<b>user:</b> " + edge[4][index]['user'])
-                        entireText += wrapText("<b>comment:</b> " + edge[4][index]['comment'])
+                        if type(edge[4][index]['user']) is not str and len(edge[4][index]['user']):
+                            for revertedEditIndex, revertUser in enumerate(list(edge[4][index]['user'])):
+                                entireText += wrapText("<b>user:</b> " + list(edge[4][index]['user'])[revertedEditIndex])
+                                entireText += wrapText("<b>comment:</b> " + list(edge[4][index]['comment'])[revertedEditIndex])
+                        else:
+                            entireText += wrapText("<b>user:</b> " + edge[4][index]['user'])
+                            entireText += wrapText("<b>comment:</b> " + edge[4][index]['comment'])
                     entireText += "<hr>"
             entireText += "</div>"
         div.text = entireText
@@ -440,6 +434,7 @@ for user in users:
         fill_alpha.append(0)
     else:
         fill_alpha.append(0.9)
+
 
 
 fill_color_min = min(fill_number)
