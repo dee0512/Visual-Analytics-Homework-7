@@ -1,32 +1,15 @@
-import numpy as np
 import pandas
-import re
 from bokeh.plotting import figure
-from bokeh.io import output_notebook, output_file, show, install_notebook_hook
 from bokeh.models import ColumnDataSource, Select, LabelSet, HoverTool, DatetimeAxis, TapTool, CustomJS, BoxZoomTool, \
     PanTool, LinearColorMapper, BasicTicker, ColorBar
 from bokeh.models import WheelZoomTool, UndoTool, RedoTool, ResetTool, ZoomInTool, ZoomOutTool, Axis, Text, Circle,\
     MultiLine
-import nltk
 import re
-from nltk.stem.snowball import SnowballStemmer
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.cluster import KMeans, DBSCAN
-import pprint
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
-from bokeh.models.widgets import DataTable, TableColumn, Div, RangeSlider, Slider, Select
+from bokeh.models.widgets import DataTable, TableColumn, Div, RangeSlider, Slider, Select, CheckboxButtonGroup
 from bokeh.layouts import Row, widgetbox, Column
-from sklearn.manifold import MDS
-from sklearn.decomposition import TruncatedSVD
-from bokeh.application.handlers import FunctionHandler
-from bokeh.application import Application
-from bokeh.palettes import Category10
-import math
-from collections import Counter
 import networkx as nx
 from bokeh.models.graphs import from_networkx, NodesAndLinkedEdges, EdgesAndLinkedNodes
 import copy
-import sklearn.cluster as cluster
 from bokeh.palettes import inferno
 from bokeh.io import curdoc
 
@@ -144,7 +127,7 @@ for row in conflictRows.iterrows():
 edges = []
 
 
-def addEdge(user1, user2, weight, edit=None):
+def addEdge(user1, user2, weight, edit=None, previousEdit=None):
     global edges
     if (user1 in bots or user2 in bots):
         return
@@ -153,18 +136,33 @@ def addEdge(user1, user2, weight, edit=None):
         if ((edge[0] == user1 and edge[1] == user2) or (edge[0] == user2 and edge[1] == user1)):
             edge[2] += weight
             edge[3].append(edit)
+            edge[4].append(previousEdit)
+            # if len(previousEdit) <= 1:
+            #     edge[4].append(previousEdit)
+            # else:
+            #     for index, row in previousEdit.iterrows():
+            #         edge[4].append(previousEdit.iloc[index])
             edgeFound = True
     if (not edgeFound):
-        edges.append([user1, user2, weight, [edit]])
+        # previous_array = []
+        # if type(previousEdit) == 'Series':
+        #     previous_array.append(previousEdit)
+        # else:
+        #     for index, row in previousEdit.iterrows():
+        #         previous_array.append(previousEdit.iloc[index])
+        # edges.append([user1, user2, weight, [edit], [previous_array]])
+        edges.append([user1, user2, weight, [edit], [previousEdit]])
+
 
 
 for index, row in undidRows.iterrows():
     tokens = re.split(" ", row['comment'])
     edgeAdded = False
+    previousEdit = data.loc[data['ID'] == row['previousEdit']]
     for token in tokens:
         for user in usernames:
             if (user.lower() in token.lower()):
-                addEdge(row['user'], user, weights['revert'], undidRows.iloc[index])
+                addEdge(row['user'], user, weights['revert'], undidRows.iloc[index], previousEdit.iloc[0])
                 if (findWholeWord('pov')(row['comment'])):
                     addEdge(row['user'], user, weights['accusation'])
                 edgeAdded = True
@@ -172,8 +170,7 @@ for index, row in undidRows.iterrows():
         if (edgeAdded):
             break
     if (not edgeAdded):
-        previousEdit = data.loc[data['ID'] == row['previousEdit']]
-        addEdge(row['user'], previousEdit['user'].item(), weights['revert'], undidRows.iloc[index])
+        addEdge(row['user'], previousEdit['user'].item(), weights['revert'], undidRows.iloc[index], previousEdit.iloc[0])
         if (findWholeWord('pov')(row['comment'])):
             addEdge(row['user'], previousEdit['user'].item(), weights['accusation'])
 
@@ -224,7 +221,7 @@ for index, row in revertRows.iterrows():
                 addEdge(row['user'], removedEdit['user'].item(), weights['vandalism'])
             if (findWholeWord('pov')(row['comment']) or findWholeWord('unsourced')(row['comment'])):
                 addEdge(row['user'], removedEdit['user'].item(), weights['accusation'])
-            addEdge(row['user'], removedEdit['user'].item(), weights['revert'], revertRows.iloc[index])
+            addEdge(row['user'], removedEdit['user'].item(), weights['revert'], revertRows.iloc[index], removedEdit.iloc[0])
             if (row['pageLength'] == toEdit['pageLength'].item()):
                 addEdge(row['user'], toEdit['user'].item(), weights['for'], revertRows.iloc[index])
         else:
@@ -232,48 +229,53 @@ for index, row in revertRows.iterrows():
                 (data['ID'] > row['ID']) & (data['user'] == forUser) & (data['pageLength'] == row['pageLength'])]
             previousCommitIndex = previousCommitsByForUser['ID'].min()
             commitsInBetween = data.loc[(data['ID'] > row['ID']) & (data['ID'] < previousCommitIndex)]
-            for user in list(commitsInBetween['user']):
+            for commitIndex, user in enumerate(list(commitsInBetween['user'])):
+                print(user, commitIndex, commitsInBetween['comment'])
                 if (findWholeWord('vandalism')(row['comment'])):
                     addEdge(row['user'], user, weights['vandalism'])
                 if (findWholeWord('pov')(row['comment']) or findWholeWord('unsourced')(row['comment'])):
                     addEdge(row['user'], user, weights['accusation'])
-                addEdge(row['user'], user, weights['revert'], revertRows.iloc[index])
+                addEdge(row['user'], user, weights['revert'], revertRows.iloc[index], commitsInBetween.iloc[commitIndex])
             addEdge(row['user'], forUser, weights['for'], revertRows.iloc[index])
     elif (forUser == ''):
         if (editsReverted != 0):
             toEdit = data.loc[data['ID'] == (row['ID'] + 1 + editsReverted)]
+            reverted_edits = data.loc[data['ID'] > row['ID'] & (data['ID'] < (row['ID'] + 1 + editsReverted))]
             forUser = toEdit['user'].item()
             if (findWholeWord('vandalism')(row['comment'])):
                 addEdge(row['user'], againstUser, weights['vandalism'] * editsReverted)
             if (findWholeWord('pov')(row['comment']) or findWholeWord('unsourced')(row['comment'])):
                 addEdge(row['user'], againstUser, weights['accusation'] * editsReverted)
-            addEdge(row['user'], againstUser, weights['revert'] * editsReverted, revertRows.iloc[index])
+            addEdge(row['user'], againstUser, weights['revert'] * editsReverted, revertRows.iloc[index], reverted_edits)
             addEdge(row['user'], forUser, weights['for'], revertRows.iloc[index])
         else:
             toEdit = data.loc[data['ID'] == (row['ID'] + 2)]
+            previousEdit = data.loc[data['ID'] == (row['ID']+1)]
             if ('good faith' in row['comment']):
                 addEdge(row['user'], againstUser, weights['goodFaith'])
             if (findWholeWord('vandalism')(row['comment'])):
                 addEdge(row['user'], againstUser, weights['vandalism'])
             if (findWholeWord('pov')(row['comment']) or findWholeWord('unsourced')(row['comment'])):
                 addEdge(row['user'], againstUser, weights['accusation'])
-            addEdge(row['user'], againstUser, weights['revert'], revertRows.iloc[index])
+            addEdge(row['user'], againstUser, weights['revert'], revertRows.iloc[index], previousEdit)
             if (row['pageLength'] == toEdit['pageLength'].item()):
                 addEdge(row['user'], toEdit['user'].item(), weights['for'], revertRows.iloc[index])
     else:
         if (editsReverted != 0):
+            reverted_edits = data.loc[data['ID'] > row['ID'] & (data['ID'] < (row['ID'] + 1 + editsReverted))]
             if (findWholeWord('vandalism')(row['comment'])):
                 addEdge(row['user'], againstUser, weights['vandalism'] * editsReverted)
             if (findWholeWord('pov')(row['comment']) or findWholeWord('unsourced')(row['comment'])):
                 addEdge(row['user'], againstUser, weights['accusation'] * editsReverted)
-            addEdge(row['user'], againstUser, weights['revert'] * editsReverted, revertRows.iloc[index])
+            addEdge(row['user'], againstUser, weights['revert'] * editsReverted, revertRows.iloc[index], reverted_edits)
             addEdge(row['user'], forUser, weights['for'], revertRows.iloc[index])
         else:
+            previousEdit = data.loc[data['ID'] == (row['ID'] + 1)]
             if (findWholeWord('vandalism')(row['comment'])):
                 addEdge(row['user'], againstUser, weights['vandalism'])
             if (findWholeWord('pov')(row['comment']) or findWholeWord('unsourced')(row['comment'])):
                 addEdge(row['user'], againstUser, weights['accusation'])
-            addEdge(row['user'], againstUser, weights['revert'], revertRows.iloc[index])
+            addEdge(row['user'], againstUser, weights['revert'], revertRows.iloc[index], previousEdit.iloc[0])
             addEdge(row['user'], forUser, weights['for'], revertRows.iloc[index])
 
 revertIds = list(revertRows['ID'])
@@ -289,7 +291,8 @@ for index, row in vandalismRows.iterrows():
     for token in tokens:
         for user in usernames:
             if (user.lower() in token.lower()):
-                addEdge(row['user'], user, weights['revert'] + weights['vandalism'], vandalismRows.iloc[index])
+                previousEdit = data.loc[data['ID'] == (row['ID'] + 1)]
+                addEdge(row['user'], user, weights['revert'] + weights['vandalism'], vandalismRows.iloc[index], previousEdit.iloc[0])
 
 undidIds = list(undidRows['ID'])
 povRows = pandas.DataFrame(columns=list(conflictRows.columns.values))
@@ -304,7 +307,8 @@ for index, row in povRows.iterrows():
     for token in tokens:
         for user in usernames:
             if (user.lower() in token.lower()):
-                addEdge(row['user'], user, weights['revert'] + weights['accusation'], povRows.iloc[index])
+                previousEdit = data.loc[data['ID'] == (row['ID'] + 1)]
+                addEdge(row['user'], user, weights['revert'] + weights['accusation'], povRows.iloc[index], previousEdit.iloc[0])
 
 
 def wrapText(text):
@@ -324,7 +328,8 @@ def selectUser(user, dropdown):
             entireText += "<div style='border:1px solid grey; padding:10px'>"
             entireText += wrapText("<b>Relationship with " + otherUser + ": </b>")
             entireText += wrapText("<b>Weight:</b> " + str(edge[2]))
-            for edit in edge[3]:
+            entireText += "<hr>"
+            for index, edit in enumerate(edge[3]):
                 if (type(edit) != type(None)):
                     entireText += wrapText("<b>user:</b> " + edit['user'])
                     tokens = re.split(" ", edit['comment'])
@@ -342,6 +347,7 @@ def selectUser(user, dropdown):
                                         token.lower() == 'reverted' or
                                         token.lower() == 'revert' or
                                         token.lower() == 'rv' or
+                                        token.lower() == 'rv.' or
                                         token.lower() == 'rvt' or
                                         token.lower() == 'reverting'):
                                 comment += " <span style='background:#FFD6E1'>" + token + "</span>"
@@ -351,6 +357,11 @@ def selectUser(user, dropdown):
                                 comment += " " + token
 
                     entireText += wrapText("<b>comment:</b> " + comment)
+                    if edge[4][index] is not None:
+                        entireText += "<p style='text-align:center'><b>Previous Edits</b></p>"
+                        entireText += wrapText("<b>user:</b> " + edge[4][index]['user'])
+                        entireText += wrapText("<b>comment:</b> " + edge[4][index]['comment'])
+                    entireText += "<hr>"
             entireText += "</div>"
         div.text = entireText
     if (dropdown):
@@ -391,12 +402,21 @@ def update(attr, old, new):
         user = graphRenderer.node_renderer.data_source.data['index'][selectedIndex[0]]
         selectUser(user, False)
     else:
-        layout.children[1].children[1] = Div(text="", width=400, height=100)
+        div.text = ""
+
+def toggleLowImpactUsers(attr, old, new):
+    if len(low_impact_button.active) == 1:
+        graphRenderer.node_renderer.glyph.fill_alpha = 'fill_alpha'
+    else:
+        graphRenderer.node_renderer.glyph.fill_alpha = 0.9
+    copy.copy(plot.renderers)
 
 
 graph = nx.Graph()
 fill_color = []
 fill_number = []
+low_impact = []
+fill_alpha = []
 size = []
 users = list(bigEdits['user'])
 for edge in edges:
@@ -415,6 +435,12 @@ for user in users:
             conflict_edits += len(edge[3])
     fill_number.append(conflict_edits)
     dropdownUsers.loc[len(dropdownUsers)] = [user, conflict_edits]
+    low_impact.append(conflict_edits <= 5)
+    if conflict_edits <= 5:
+        fill_alpha.append(0)
+    else:
+        fill_alpha.append(0.9)
+
 
 fill_color_min = min(fill_number)
 for number in fill_number:
@@ -437,15 +463,16 @@ for edge in edges:
     graph.add_edge(edge[0], edge[1], weight=edge[2])
 
 hover = HoverTool(tooltips=[("User", "@index")])
-plot = figure(title="Wiki Edits Network with 'Undid' edits", x_range=(-5, 5), y_range=(-5, 5),
+plot = figure(title="Wiki Edits Network", x_range=(-5, 5), y_range=(-5, 5),
               tools=[hover, TapTool()] + getDefaultTools())
 graphRenderer = from_networkx(graph, nx.spring_layout, scale=4, iterations=2000)
 graphRenderer.node_renderer.data_source.data['fill_color'] = fill_color
-graphRenderer.node_renderer.glyph = Circle(size=10, fill_color='fill_color', line_color='fill_color', fill_alpha=0.9,
-                                           line_alpha=0.9)
+graphRenderer.node_renderer.data_source.data['fill_alpha'] = fill_alpha
+graphRenderer.node_renderer.glyph = Circle(size=10, fill_color='fill_color', line_color='fill_color',
+                                           fill_alpha='fill_alpha', line_alpha='fill_alpha')
 
 graphRenderer.edge_renderer.glyph = MultiLine(line_color="#CCCCCC", line_alpha=0.8, line_width=1)
-graphRenderer.edge_renderer.selection_glyph = MultiLine(line_color="black", line_alpha=1, line_width=1)
+graphRenderer.edge_renderer.selection_glyph = MultiLine(line_color="black", line_alpha=1, line_width=2)
 graphRenderer.node_renderer.data_source.on_change('selected', update)
 graphRenderer.selection_policy = NodesAndLinkedEdges()
 color_palette = inferno(palette_number+1)
@@ -462,5 +489,6 @@ dropdownUsers = dropdownUsers.sort_values(by='conflicts', ascending=False)
 
 userDropdown = Select(title='select user', options=list(dropdownUsers['user']))
 userDropdown.on_change('value', userDropdownCallback)
-
-curdoc().add_root(Column(userDropdown,Row(plot,div)))
+low_impact_button = CheckboxButtonGroup(labels=["Hide low impact users"], active=[0])
+low_impact_button.on_change('active', toggleLowImpactUsers)
+curdoc().add_root(Column(userDropdown,Row(plot,div),low_impact_button))
