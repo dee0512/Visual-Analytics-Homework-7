@@ -1,7 +1,7 @@
 import pandas
 from bokeh.plotting import figure
 from bokeh.models import ColumnDataSource, Select, LabelSet, HoverTool, DatetimeAxis, TapTool, CustomJS, BoxZoomTool, \
-    PanTool, LinearColorMapper, BasicTicker, ColorBar
+    PanTool, LinearColorMapper, BasicTicker, ColorBar, Label
 from bokeh.models import WheelZoomTool, UndoTool, RedoTool, ResetTool, ZoomInTool, ZoomOutTool, Axis, Text, Circle,\
     MultiLine
 import re
@@ -521,7 +521,7 @@ graphRenderer = from_networkx(graph, nx.spring_layout, scale=4, iterations=2000)
 graphRenderer.node_renderer.data_source.data['fill_color'] = fill_color
 graphRenderer.node_renderer.data_source.data['fill_alpha'] = fill_alpha
 graphRenderer.node_renderer.data_source.data['group_color'] = group_color
-graphRenderer.node_renderer.glyph = Circle(size=10, fill_color='group_color', line_color='group_color',
+graphRenderer.node_renderer.glyph = Circle(size=10, fill_color='fill_color', line_color='fill_color',
                                            fill_alpha='fill_alpha', line_alpha='fill_alpha')
 
 graphRenderer.edge_renderer.glyph = MultiLine(line_color="#CCCCCC", line_alpha=0.8, line_width=1)
@@ -533,22 +533,22 @@ color_palette.reverse()
 color_mapper = LinearColorMapper(palette=color_palette, low=0, high=palette_number)
 color_bar = ColorBar(color_mapper=color_mapper, ticker=BasicTicker(desired_num_ticks=5),
                      border_line_color=None, location=(0, 0))
-# plot.add_layout(color_bar, 'left')
-plot.renderers.append(graphRenderer)
+plot.add_layout(color_bar, 'left')
 plot.xgrid.grid_line_color = None
 plot.ygrid.grid_line_color = None
 
+plot.renderers.append(graphRenderer)
+
 div = Div(text="", width=400, height=100)
 
-tips = Div(text="<p><b>Tip 1: </b> For some reason, the edges are only correctly highlighted when one of the nodes is first clicked before selecting from the dropdown.</p>" +
-                "<p><b>Tip 2: </b> After clicking the 'Hide Low Impact' button, please hover over the graph to change it.</p>" +
-                "<p><b>Tip 3: </b> The 'Hide Low Impact' button hides users with lower number of conflicts.</p>", width=400, height=100)
+tips = Div(text="<p><b>Tip 1: </b> The color bar represents the number of conflicts.</p>" +
+                "<p><b>Tip 2: </b> For some reason, the edges are only correctly highlighted when one of the nodes is first clicked before selecting from the dropdown.</p>" +
+                "<p><b>Tip 3: </b> After clicking the 'Hide Low Impact' button, please hover over the graph to change it.</p>" +
+                 "<p><b>Tip 4: </b> The 'Hide Low Impact' button hides users with lower number of conflicts.</p>", width=400, height=100)
 
-legend = Div(text='<p><svg height="20" width="20"><circle cx="10" cy="10" r="10" fill="#C91E17" /></svg> Against Parisio</p>'+
-                  '<p><svg height="20" width="20"><circle cx="10" cy="10" r="10" fill="#17C957" /></svg> For Parisio</p>', width=400, height=100)
 
 userDropdown = Select(title='select user', options=list(dropdownUsers['user']))
 userDropdown.on_change('value', userDropdownCallback)
 low_impact_button = CheckboxButtonGroup(labels=["Hide low impact users"], active=[0])
 low_impact_button.on_change('active', toggleLowImpactUsers)
-curdoc().add_root(Column(userDropdown, legend, Row(plot, div), low_impact_button, tips))
+curdoc().add_root(Column(userDropdown, Row(plot, div), low_impact_button, tips))

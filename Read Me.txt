@@ -1,0 +1,21 @@
+Please download 2 packages from nltk:
+python
+>>> import nltk
+>>> nltk.download('punkt')
+>>> nltk.download('vader_lexicon')
+
+Please run/look at the files in the following order:
+
+1. Jupyter notebook: Initial Solutions Exploration
+2. Jupyter notebook: Initial Data visualization
+3. Jupyter notebook: Final Solution
+4. bokeh serve --show conflictNetwork-shaded.py
+5. bokeh serve --show conflictNetwork.py
+6. bokeh serve --show editFrequency.py
+
+The Final Report.docx describes the graphs and visualizations and the code in each of the files. 
+
+The video link: https://drive.google.com/open?id=1JRsEJMd1qGzZlOVwO-emu_2Dhhrkf3zS
+
+Thank you,
+Devdhar Patel
